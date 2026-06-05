@@ -309,9 +309,6 @@ I'm available for **AI-powered feature builds**, **LLM platform engineering**, *
 <a href="https://github.com/bishr2000">
   <img src="https://img.shields.io/badge/GitHub-@bishr2000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @bishr2000" />
 </a>
-<a href="https://github.com/bishr2000">
-  <img src="https://img.shields.io/badge/Hire_Me-Available_Now-22c55e?style=for-the-badge&logo=upwork&logoColor=white" alt="Available for hire on Upwork" />
-</a>
 <a href="mailto:contact@bishr2000.dev">
   <img src="https://img.shields.io/badge/Email-Contact_Me-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Eugene" />
 </a>
