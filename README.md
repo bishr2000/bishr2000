@@ -16,7 +16,6 @@ React Developer, REST API, GraphQL, Docker, Cloud Deployment, Remote AI Engineer
 <br /><br />
 
 <p>
-  <a href="https://github.com/bishr2000"><img src="https://img.shields.io/badge/Open_to_Work-0ea5e9?style=for-the-badge&logo=upwork&logoColor=white&labelColor=020617" alt="Open to work" /></a>
   <a href="https://github.com/bishr2000"><img src="https://img.shields.io/badge/AI_Agents-7c3aed?style=for-the-badge&logo=openai&logoColor=white&labelColor=020617" alt="AI Agents" /></a>
   <a href="https://github.com/bishr2000"><img src="https://img.shields.io/badge/LLM_Engineering-ec4899?style=for-the-badge&logo=langchain&logoColor=white&labelColor=020617" alt="LLM Engineering" /></a>
   <a href="https://github.com/bishr2000"><img src="https://img.shields.io/badge/RAG_Pipelines-22c55e?style=for-the-badge&logo=databricks&logoColor=white&labelColor=020617" alt="RAG Pipelines" /></a>
