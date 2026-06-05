@@ -230,21 +230,16 @@ I'm equally experienced building robust **full-stack web applications**, designi
 <!-- ──────────────────────────────────────────────────────────────── -->
 
 ## Featured Projects
+### LangLens — LLM Observability & Evaluation SDK
+**Stack:** Dart, Flutter, OpenAI, Anthropic, Google Gemini, Ollama
 
-### AI English Learning Platform
-> **Stack:** OpenAI, Next.js, Node.js, PostgreSQL, Vector DB
+Built a comprehensive **LLM observability and evaluation SDK** for Flutter/Dart that traces LLM calls, runs 13+ built-in evaluators across heuristic, LLM-as-judge, and safety categories, and monitors cost, token usage, and latency. Supports both cloud providers (OpenAI, Anthropic, Gemini) and local models (Ollama), with hierarchical tracing, datasets and experiments, composable chains, and feedback collection. Published as an open-source SDK under the MIT license.
 
-Built an **AI-powered English learning platform** where students interact with an AI tutor in real time, receive personalized assignments, and get instant, context-aware feedback. The agent adapts difficulty based on user performance and provides structured learning pathways.
+### Syrian Currency Detector — On-Device AI Mobile App
+**Stack:** Android, Java, TensorFlow Lite, Deep Learning
 
-### Health Management Web Platform
-> **Stack:** Next.js, Python, FastAPI, LLM API, Data Visualization
+Developed an **Android application that recognizes Syrian currency** in real time using a custom-trained deep-learning model running fully on-device with TensorFlow Lite. The image-classification pipeline performs inference locally with no network dependency, making it fast, private, and usable offline.
 
-Designed and delivered a **health tracking web app** where users record metrics, visualize trends, and receive concise, AI-generated summaries of their activity. The AI agent translates raw health data into actionable, human-readable insights displayed through interactive charts and dashboards.
-
-### Offline 2D → 4D Conversion Pipeline
-> **Stack:** Locally hosted LLM, Python, Agent Orchestration
-
-Engineered an **experimental multi-step offline pipeline** that converts 2D images into 4D representations using a locally hosted LLM. An AI agent orchestrates the entire sequence, ideal for privacy-sensitive, air-gapped, or high-compliance environments.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ea5e9,100:22c55e&section=footer" width="100%" alt="Animated cyan-to-green wave divider" />
