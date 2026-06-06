@@ -34,7 +34,7 @@ React Developer, REST API, GraphQL, Docker, Cloud Deployment, Remote AI Engineer
 
 <img align="right" height="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/Developer.gif" alt="Animated developer illustration" />
 
-Hi, I'm a **Senior AI & Full-Stack Engineer** with **6+ years** of professional experience shipping production software.
+Hi, I'm a **Senior AI & Full-Stack Engineer** with **3+ years** of professional experience shipping production software.
 
 I specialize in **AI agent development**, **LLM-powered services**, and **modern web platforms** for global clients. I turn business workflows into reliable, data-aware AI products, from **chatbots** and **internal copilots** to **RAG knowledge bases**, **workflow automation**, and **SaaS dashboards**.
 
